@@ -8,3 +8,6 @@ No identificamos los otros domincilios.
 [Andres Snitcofsky](https://twitter.com/rusosnith) los puso en 
 interesante [mapa](https://rusosnith.cartodb.com/viz/0b792956-3bca-11e5-a253-0e8dde98a187/public_map).  
 
+Los datos fueron limpiados con OpenRefine (podria mejorarse).  
+
+
