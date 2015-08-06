@@ -14,7 +14,7 @@ cols = ['N°ELECTOR', 'DNI', 'CLASE', 'APELLIDO', 'NOMBRE', 'Direccion',
         'Sec.', 'Cir', 'Sexo', 'Mesa', 'Col.']
 """
 
-path='Padron-Villa-Allende-2015-anonimizado.csv'
+path='Padron-Villa-Allende-2015-anonimizado-openrefine.csv'
 cols = ['N°ELECTOR', 'CLASE', 'Direccion', 
         'Nro Dir', 'Depto Otro', 'Profesion', 'Tipo DNI', 'Analf.', 
         'Sec.', 'Cir', 'Sexo', 'Mesa', 'Col.']
