@@ -49,6 +49,7 @@ dest = 'votantes-por-docimilio.csv'
 f = codecs.open(dest, 'w', encoding='utf8')
 f.write('domicilio,votantes\n')
 
+#mostrar los dies primeros e imprimir a archivo solo los domicilios que tienen mas de 10 votantes
 n = 1
 for d in domicilios_sorted:
     if n<11: print str(d)
