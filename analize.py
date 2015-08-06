@@ -54,6 +54,8 @@ for d in domicilios_sorted:
     if n<11: print str(d)
     n += 1
     f.write('{},{}\n'.format(d[0], d[1]))
+    if int(d[1]) < 11:
+        break 
 
 print '=============================='
 print 'saved as %s' % dest
